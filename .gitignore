@@ -1,0 +1,6 @@
+# Source code only — keep student records, photos, exports, and office files local.
+*.zip
+*.xlsx
+~$*
+ครู/
+เตรียมอนุบาล11/
